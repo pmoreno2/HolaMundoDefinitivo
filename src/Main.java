@@ -5,5 +5,5 @@ public class Main {
         // Press Alt+Intro with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Mejor HelloWorld del mundo!");
-
+    }
 }
